@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @84mb
-- 👀 I’m interested in computers and games
-- 🌱 I’m currently learning js
-- 📫 How to reach me - discord: 84mb#1535
+Hi, I’m 84mb!
+I’m interested in computers and games
+I’m currently learning js
+I'm making multiple discord bots!
+How to reach me - discord: 84mb#1535
 
 <!---
 84mb/84mb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
